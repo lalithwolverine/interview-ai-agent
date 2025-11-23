@@ -1,0 +1,98 @@
+{
+  "sessionId": "session_1763892862708",
+  "role": "engineer",
+  "mode": "interview",
+  "startedAt": "2025-11-23T15:44:34.380295",
+  "events": [
+    {
+      "time": "2025-11-23T15:44:34.380295",
+      "speaker": "user",
+      "text": "engineer"
+    },
+    {
+      "time": "2025-11-23T15:44:34.380295",
+      "speaker": "assistant",
+      "text": "Describe a challenging project you worked on and how you solved it."
+    },
+    {
+      "time": "2025-11-23T15:45:06.793099",
+      "speaker": "user",
+      "text": "During my internship, I worked on a web application where the backend API was returning inconsistent data, causing errors on the frontend. The challenge was that the issue seemed intermittent and wasn’t documented.  To solve it, I first replicated the problem locally to understand the exact conditions causing the failure. Then, I reviewed the API code and logs, identifying a race condition in the data fetching logic. I implemented a fix by adding proper asynchronous handling and improved error logging for future debugging.  After testing, the frontend received consistent data, and the errors were resolved. This project taught me the importance of careful debugging, reading documentation, and testing edge cases.",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:45:17.732586",
+      "speaker": "assistant",
+      "text": "Can you elaborate on that?"
+    },
+    {
+      "time": "2025-11-23T15:45:24.260529",
+      "speaker": "user",
+      "text": "During my internship, I worked on a web application where the backend API was returning inconsistent data, causing errors on the frontend. The challenge was that the issue seemed intermittent and wasn’t documented.  To solve it, I first replicated the problem locally to understand the exact conditions causing the failure. Then, I reviewed the API code and logs, identifying a race condition in the data fetching logic. I implemented a fix by adding proper asynchronous handling and improved error logging for future debugging.  After testing, the frontend received consistent data, and the errors were resolved. This project taught me the importance of careful debugging, reading documentation, and testing edge cases.",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:45:34.043101",
+      "speaker": "assistant",
+      "text": "Can you elaborate on that?"
+    },
+    {
+      "time": "2025-11-23T15:45:48.259874",
+      "speaker": "user",
+      "text": "move on to the next question"
+    },
+    {
+      "time": "2025-11-23T15:45:48.260883",
+      "speaker": "assistant",
+      "text": "How do you stay updated with new technologies?"
+    },
+    {
+      "time": "2025-11-23T15:45:59.732801",
+      "speaker": "user",
+      "text": "by reading newspaper",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:46:04.496226",
+      "speaker": "assistant",
+      "text": "Could you please elaborate on that? I'd like to hear more details."
+    }
+  ],
+  "aggregatedFeedback": {}
+}

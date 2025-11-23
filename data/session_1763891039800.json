@@ -1,0 +1,148 @@
+{
+  "sessionId": "session_1763891039800",
+  "role": "engineer",
+  "mode": "interview",
+  "startedAt": "2025-11-23T15:14:48.224695",
+  "events": [
+    {
+      "time": "2025-11-23T15:14:48.224695",
+      "speaker": "user",
+      "text": "Eng"
+    },
+    {
+      "time": "2025-11-23T15:14:48.224695",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:03.646738",
+      "speaker": "user",
+      "text": "The"
+    },
+    {
+      "time": "2025-11-23T15:15:03.646738",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:04.334969",
+      "speaker": "user",
+      "text": "The role"
+    },
+    {
+      "time": "2025-11-23T15:15:04.334969",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:04.839066",
+      "speaker": "user",
+      "text": "The role name to"
+    },
+    {
+      "time": "2025-11-23T15:15:04.839189",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:04.944001",
+      "speaker": "user",
+      "text": "The role name to get started"
+    },
+    {
+      "time": "2025-11-23T15:15:04.944001",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:18.735417",
+      "speaker": "user",
+      "text": "The role name to get started"
+    },
+    {
+      "time": "2025-11-23T15:15:18.735417",
+      "speaker": "assistant",
+      "text": "I'm here to help you practice for job interviews. Which role would you like to practice for?\n\n• Software Engineer\n• Sales Representative\n• Retail Associate\n\nType the role name to get started."
+    },
+    {
+      "time": "2025-11-23T15:15:21.971099",
+      "speaker": "user",
+      "text": "engineer"
+    },
+    {
+      "time": "2025-11-23T15:15:21.971099",
+      "speaker": "assistant",
+      "text": "Describe a challenging project you worked on and how you solved it."
+    },
+    {
+      "time": "2025-11-23T15:15:35.459956",
+      "speaker": "user",
+      "text": "I",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:15:42.075087",
+      "speaker": "assistant",
+      "text": "How do you stay updated with new technologies?"
+    },
+    {
+      "time": "2025-11-23T15:15:46.469706",
+      "speaker": "user",
+      "text": "I would like to talk about challenging",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:15:51.694265",
+      "speaker": "assistant",
+      "text": "Could you please elaborate on that? I'd like to hear more details."
+    },
+    {
+      "time": "2025-11-23T15:16:12.849776",
+      "speaker": "user",
+      "text": "biryani recipe",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:16:17.987251",
+      "speaker": "assistant",
+      "text": "Could you please elaborate on that? I'd like to hear more details."
+    }
+  ],
+  "aggregatedFeedback": {}
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Practice Partner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Interview Practice Partner</h1>
+            <p class="subtitle">AI-powered interview preparation assistant</p>
+        </header>
+
+        <div class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello. I'm your interview practice partner. I can help you prepare for job interviews by conducting mock interviews.</p>
+                        <p><strong>Available roles:</strong></p>
+                        <ul>
+                            <li>Software Engineer</li>
+                            <li>Sales Representative</li>
+                            <li>Retail Associate</li>
+                        </ul>
+                        <p>Type the role name to get started, or specify which position you'd like to practice for.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-container">
+                <div class="voice-controls">
+                    <button id="voiceModeToggle" class="voice-btn" title="Toggle Voice Mode">
+                        <span id="voiceIcon">🎤</span>
+                        <span id="voiceStatus">Voice Mode: Off</span>
+                    </button>
+                    <button id="micButton" class="mic-btn" disabled title="Click to speak">
+                        <span id="micIcon">🎙️</span>
+                        <span id="micStatus">Click to speak</span>
+                    </button>
+                </div>
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="userInput" 
+                        placeholder="Type your message here or use voice mode..." 
+                        autocomplete="off"
+                    >
+                    <button id="sendButton">Send</button>
+                </div>
+                <div class="quick-actions">
+                    <button class="quick-btn" data-role="engineer">Engineer</button>
+                    <button class="quick-btn" data-role="sales">Sales</button>
+                    <button class="quick-btn" data-role="retail">Retail</button>
+                    <button class="quick-btn" id="resetBtn">Reset</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-panel">
+            <div class="info-card">
+                <h3>Interview Progress</h3>
+                <div id="progressInfo">
+                    <p>Select a role to begin</p>
+                </div>
+            </div>
+            <div class="info-card">
+                <h3>Guidelines</h3>
+                <ul>
+                    <li>Answer naturally, as you would in a real interview</li>
+                    <li>Provide specific examples from your experience</li>
+                    <li>Use the STAR method (Situation, Task, Action, Result)</li>
+                    <li>Request feedback at the end of the interview</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+

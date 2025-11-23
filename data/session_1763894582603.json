@@ -1,0 +1,111 @@
+{
+  "sessionId": "session_1763894582603",
+  "role": "engineer",
+  "mode": "interview",
+  "startedAt": "2025-11-23T16:13:13.919760",
+  "events": [
+    {
+      "time": "2025-11-23T16:13:13.919760",
+      "speaker": "user",
+      "text": "engineer"
+    },
+    {
+      "time": "2025-11-23T16:13:13.919760",
+      "speaker": "assistant",
+      "text": "How do you approach debugging a complex issue?"
+    },
+    {
+      "time": "2025-11-23T16:13:22.267219",
+      "speaker": "user",
+      "text": "teamwork",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T16:13:27.465369",
+      "speaker": "assistant",
+      "text": "Could you please provide a more detailed answer?"
+    },
+    {
+      "time": "2025-11-23T16:13:46.998192",
+      "speaker": "user",
+      "text": "“I stay updated with new technologies by regularly reading official documentation, developer blogs, and community forums like Stack Overflow or GitHub. I also try out new tools and frameworks through small projects, which helps me learn them hands-on. Additionally, I watch tech talks, tutorials, and webinars to keep track of emerging trends and best practices. This combination of reading, experimenting, and following the community helps me stay current and continuously improve my skills.",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T16:13:52.054659",
+      "speaker": "assistant",
+      "text": "How do you stay updated with new technologies?"
+    },
+    {
+      "time": "2025-11-23T16:14:38.359412",
+      "speaker": "user",
+      "text": "They updated with Technologies",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T16:14:43.533225",
+      "speaker": "assistant",
+      "text": "Could you please provide a more detailed answer?"
+    },
+    {
+      "time": "2025-11-23T16:14:54.477898",
+      "speaker": "user",
+      "text": "I stay updated with new technologies by reading official documentation, tech blogs, and developer forums like Stack Overflow and GitHub. I also experiment with new tools and frameworks through small projects to gain hands-on experience. Additionally, I follow tech talks, tutorials, and webinars to learn about emerging trends and best practices.",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T16:14:59.708196",
+      "speaker": "assistant",
+      "text": "Describe a challenging project you worked on and how you solved it."
+    }
+  ],
+  "aggregatedFeedback": {}
+}

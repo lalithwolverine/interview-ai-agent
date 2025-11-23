@@ -1,0 +1,111 @@
+{
+  "sessionId": "session_1763890344909",
+  "role": "engineer",
+  "mode": "interview",
+  "startedAt": "2025-11-23T15:03:39.022900",
+  "events": [
+    {
+      "time": "2025-11-23T15:03:39.023237",
+      "speaker": "user",
+      "text": "engineer"
+    },
+    {
+      "time": "2025-11-23T15:03:39.023237",
+      "speaker": "assistant",
+      "text": "How do you stay updated with new technologies?"
+    },
+    {
+      "time": "2025-11-23T15:03:58.753285",
+      "speaker": "user",
+      "text": "stay updated",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:04:04.599904",
+      "speaker": "assistant",
+      "text": "Could you please elaborate on that? I'd like to hear more details."
+    },
+    {
+      "time": "2025-11-23T15:04:22.521213",
+      "speaker": "user",
+      "text": "how to make biryani",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:04:27.759648",
+      "speaker": "assistant",
+      "text": "Could you please elaborate on that? I'd like to hear more details."
+    },
+    {
+      "time": "2025-11-23T15:05:15.102741",
+      "speaker": "user",
+      "text": "I stay updated by following official documentation, tech blogs, and developer communities like Stack Overflow and GitHub. I also try out new tools and frameworks in small projects to get hands-on experience. Additionally, I watch tech talks, tutorials, and webinars to learn about emerging trends and best practices",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:05:24.885570",
+      "speaker": "assistant",
+      "text": "Can you elaborate on that?"
+    },
+    {
+      "time": "2025-11-23T15:05:48.873717",
+      "speaker": "user",
+      "text": "I stay updated with new technologies through a mix of learning and hands-on practice. I regularly read official documentation, developer blogs, and community forums like Stack Overflow or GitHub discussions to understand trends and solutions to real problems.  I also like to experiment by building small projects or trying out new libraries and frameworks, which helps me understand how they work in practice. Additionally, I follow tech talks, webinars, and tutorials to get insights from experienced developers and keep track of emerging best practices.",
+      "eval": {
+        "scores": {
+          "communication": 3,
+          "technical": 3,
+          "examples": 3
+        },
+        "overall": 60,
+        "should_followup": true,
+        "followup_question": "Can you elaborate on that?",
+        "feedback": [
+          "Evaluation temporarily unavailable"
+        ]
+      }
+    },
+    {
+      "time": "2025-11-23T15:05:58.677299",
+      "speaker": "assistant",
+      "text": "Can you elaborate on that?"
+    }
+  ],
+  "aggregatedFeedback": {}
+}
